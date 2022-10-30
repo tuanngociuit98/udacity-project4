@@ -1,6 +1,5 @@
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/tuanngociuit98/udacity-project4/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/tuanngociuit98/udacity-project4/tree/master)
 
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/BadTrippp/project4_final/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/BadTrippp/project4_final/tree/main)
 
 ## Project Overview
 
