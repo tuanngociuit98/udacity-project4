@@ -12,7 +12,7 @@ kubectl run website --image=$dockerpath --port=8080
 
 # Step 3:
 # List kubernetes pods
-sudo kubectl get pods 
+kubectl get pods 
 sleep 20
 # Step 4:
 # Forward the container port to a host

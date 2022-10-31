@@ -12,6 +12,6 @@ docker image rmi udacity-project4
 docker images --all
 # Step 3: 
 # Run flask app
-docker run -d 8080:80 udacity-project4
+docker run -p 8080:80 udacity-project4
 
-docker logs udacity-project4 -f >> docker_out.txt 
+docker logs udacity-project4 -f >> docker_out.txt
